@@ -39,18 +39,41 @@
 <details>
   <summary>Robotics and Embedded Systems</summary>
 
-- **[RoboCup SSL Team - SJTU SRC (2023-2024)](#src2023)**
+  <details>
+    <summary>RoboCup SSL Team - SJTU SRC (2023-2024)</summary>
+    
+    - [UDP Python Server for C++ integration](#src2023)
+    - Best Advancer Matcher Algorithm  
+    - Chip Location Prediction with one camera  
+    - Role: Software Team Leader – overall architecture, integration, and final code review
+
+  </details>
+
+  <details>
+    <summary>RoboCup SSL Team - SJTU SRC (2025)</summary>
+    
+    - Next-generation software architecture  
+    - Lua → Python migration for FSM  
+    - Integration with electronics team  
+    - Role: Software Team Leader – full software oversight
+
+  </details>
 
 </details>
 
 <details>
   <summary>Web Development</summary>
 
-- **IEEE Web Page**  
-  Built RESTful APIs with Node.js/Express, integrated MySQL database for user management, and implemented secure student verification system.
+  <details>
+    <summary>IEEE Web Page</summary>
+    
+    - Built RESTful APIs with Node.js/Express  
+    - Integrated MySQL database for user management  
+    - Implemented secure student verification system
+
+  </details>
 
 </details>
----
 
 ## Project Lists
 
