@@ -9,7 +9,7 @@
     - [SJTU SRC Team (RoboCup SSL)](https://github.com/sjtu-src)
     - [UMich MRoboSub Team](https://github.com/MRoboSub/mrobosub)
     - [UMich IEEE Student Branch](https://ieee.eecs.umich.edu/)  
-- **Focus Areas**: Software architecture, robotics logic, embedded systems, web development  
+- **Focus Areas**: Software Architecture, Robotics Logic, Embedded Systems, Web Development  
 - **Current Research**: STM32 microcontroller applications in Unicycles  
 - **Looking For**: Summer 2026 internship opportunities
 
@@ -21,6 +21,36 @@
 **Programming**: C++, Lua, JavaScript, Java, MATLAB, Mathematica, C#  
 **Robotics & Embedded**: ROS2, STM32, Arduino, Real-Time Systems, Pybind11  
 
+
+## Contact
+- Email: shenghan@umich.edu
+- Mobile: +1 (734) 358-6704
+- [LinkedIn](https://www.linkedin.com/in/shenghan-gao-30b029383)
+- WeChat Id: Gshgsh1130
+- QQ: 2893409370
+- Instagram: [@gaoshenghan1130](https://www.instagram.com/gaoshenghan1130/)
+- Personal Website (coming soon 🚧)
+
+---
+⭐️ Feel free to check out my projects and contributions!
+
+## Project Context
+
+<details>
+  <summary>Robotics and Embedded Systems</summary>
+
+- **RoboCup SSL Team - SJTU SRC (2023-2024)**  
+  Key contributions: Python-C++ integration, UDP server, RRCC protocol, Best Advancer Matcher, Chip Location Prediction, etc.
+
+</details>
+
+<details>
+  <summary>Web Development</summary>
+
+- **IEEE Web Page**  
+  Built RESTful APIs with Node.js/Express, integrated MySQL database for user management, and implemented secure student verification system.
+
+</details>
 ---
 
 ## Project Lists
@@ -34,7 +64,7 @@
 - Lead final code review and debugging  
 - Ensure system reliability and maintainability
 
-**Task Stack**: C++, Python, Lua, Qt, Google Protobuf, OOP, Data Structures & Algorithms, Git, Unit Testing
+**Task Stack**: C++, Python, Lua, Qt, Google Protobuf, OOP, Data Structures & Algorithms, Git, Unit Testing, Multithreading, Network Programming, UDP, CMake
 
 A comprehensive overhaul of the software architecture for the RoboCup Small Size League team at SJTU, featuring recursive skill structures and two levels of FSM (Finite State Machine). Key contributions include:
 
@@ -59,11 +89,23 @@ A comprehensive overhaul of the software architecture for the RoboCup Small Size
 
 **[RoboCup SSL Team - SJTU SRC (2025)](https://github.com/sjtu-src/Falcon2026)**
 
+**Role:** Software Team Leader (same as above)
+
+**Task Stack**: Python, CMake, Qt, Pybind11, OOP, Unit Testing, Finite State Machine, Data Structures & Algorithms
+
+
 A next-generation software architecture for the RoboCup Small Size League team at SJTU, designed to enhance motion control, **REPLACEING LUA WITH PYTHON**, and improve overall system robustness. Key contributions include:
 
 
-- Portation from Linux to Windows(Not using WSL, but rewriting CMakeLists.txt and codebase for Windows compatibility)
-  - Reconfigure some of third party libraries for Windows compatibility and modern CMake usage and toolchains
+- **Portation from Linux to Windows-Linux Cross Platform** (Not using WSL, but rewriting CMakeLists.txt and codebase for Windows compatibility)
+  - Reconfigure some of third party libraries for Windows compatibility and modern CMake usage and toolchains, listing in my respository including a old versiono of [ODE](https://github.com/gaoshenghan1130/ODE_modernRepair) (later found better version in vcpkg),  and [vartypes](https://github.com/gaoshenghan1130/VarTypes_Robocup) (provided by the [Robocup Official](https://www.robocup.org) without a Windowsos version).
+  - Rewrite CMakeLists.txt in all modules, create a top-level CMakeLists.txt to manage all submodules, enable compilation either with each module or all-in-one.
+  - Optimize cmake sturcture, create function automatically to recursively add all source files in a directory to target, avoiding manual adding. Shortening code size each module from 200-400 lines to less than 100 lines.
+  - Refactor config-time generation of protobuf, lua and python bindings to compile time generation, monitoring changes in proto/lua/py files and auto-regenerate corresponding cpp/h files.
+
+  - **Python Based FSM (Finite State Machine)** for better modularity and maintainability:
+    - Each skill is represented as a state in the FSM, allowing for clear transitions and encapsulation of behavior
+    - Simplifies the addition of new skills and modification of existing ones without affecting the overall system
 
 - Modular Motion Test System Framework for new member D* Argorithm training and testing
   - CRTP(Curiously Recurring Template Pattern) based design for compile-time polymorphism, reducing runtime overhead, maintaining shorter and more readable code
@@ -78,10 +120,3 @@ A next-generation software architecture for the RoboCup Small Size League team a
 - [Odyssey - Time Travel Game](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-24su/p2team07), *Require SJTU account to access*
 A time travel game developed using Elm, a functional programming language for front-end web development. The game features a unique time travel mechanic that allows players to accelerate or slow down time to solve puzzles and navigate through levels.
 
-## Contact
-- Email: shenghan@umich.edu
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- Personal Website (coming soon 🚧)
-
----
-⭐️ Feel free to check out my projects and contributions!
