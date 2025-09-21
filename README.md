@@ -21,35 +21,41 @@
 **Programming**: Python, C++, Lua, JavaScript, Java, MATLAB, Mathematica, C#，Elm  
 **Robotics & Embedded**: ROS2, STM32, Arduino, Real-Time Systems, Pybind11  
 
-## Project Context
+## Project Portfolio
 
 ⭐️ Feel free to check out my projects and contributions!
 
 <div style="border:1px solid #ccc; padding:10px; border-radius:5px; background:#f9f9f9;">
   <details open>
-    <summary style="font-size:16px; font-weight:bold; cursor:pointer;">Robotics and Embedded Systems</summary>
+    <summary style="font-size:16px; font-weight:bold; ">Robotics and Embedded Systems</summary>
     <ul>
-      <li>
+        <li>
         <details open>
-          <summary>RoboCup SSL Team - SJTU SRC (2023-2024)</summary>
-  <ul>
-    <li><a href="#udp_server">UDP Python Server for C++ integration</a></li>
-    <li><a href="#matcher_algo">Best Advancer Matcher Algorithm</a></li>
-    <li><a href="#chip_pred">Chip Location Prediction with one camera</a></li>
-  </ul>
+            <summary>RoboCup SSL Team - SJTU SRC (2023-2024)</   summary>
+            <ul>
+                <li><a href="#udp_server">UDP Python Server for C++ integration</a></li>
+                <li><a href="#matcher_algo">Best Advancer Matcher Algorithm</a></li>
+                <li><a href="#chip_pred">Chip Location Prediction with one camera</a></li>
+            </ul>
         </details>
-      </li>
-      <li>
+        </li>
+        <li>
         <details open>
-          <summary>RoboCup SSL Team - SJTU SRC (2025)</summary>
-          <ul>
-            <li><a href="portationL2W">Portation from Linux to Windows-Linux Cross Platform</a></li>
-            <li><a href="#pyfsm">Python Based FSM (Finite State Machine)</a></li>
-            <li><a href="#modularMotionTest">Modular Motion Test System Framework</a></li>
-          </ul>
+            <summary>RoboCup SSL Team - SJTU SRC (2025)</summary>
+            <ul>
+                <li><a href="portationL2W">Portation from Linux to Windows-Linux Cross Platform</a></li>
+                <li><a href="#pyfsm">Python Based FSM (Finite State Machine)</a></li>
+                <li><a href="#modularMotionTest">Modular Motion Test System Framework</a></li>
+            </ul>
         </details>
-      </li>
-    </ul>
+        </li>
+        <li>
+        <details open>
+            <summary>MRoboSub Team - UMich</summary>
+            <ul>
+                <li><a href="#teleop">Refactor Teleop Control Module</a></li>
+            </ul>
+        </details>
   </details>
 </div>
 
@@ -76,7 +82,7 @@
 - Lead final code review and debugging  
 - Ensure system reliability and maintainability
 
-**Task Stack**: C++, Python, Lua, Qt, Google Protobuf, OOP, Data Structures & Algorithms, Git, Unit Testing, Multithreading, Network Programming, UDP, CMake
+**Task Stack**: C++, Python, Lua, Qt, Google Protobuf, OOP, Data Structures & Algorithms, Real Time Systems, Git, Unit Testing, Multithreading, Network Programming, UDP, CMake
 
 A comprehensive overhaul of the software architecture for the RoboCup Small Size League team at SJTU, featuring recursive skill structures and two levels of FSM (Finite State Machine). Key contributions include:
 
@@ -126,6 +132,15 @@ A next-generation software architecture for the RoboCup Small Size League team a
   - Debug Engine based Vim-like UI for real-time parameter tuning and visualization
   - Unit Testing for motion algorithms to ensure reliability and correctness
 
+**[MRoboSub Team - UMich](https://www.github.com/MRoboSub/mrobosub)**
+**Role:** Software Developer – focusing on embedded systems and ROS2 integration
+
+**Task Stack**: Python, ROS2, Real-Time Systems, Git, Unit Testing
+
+- **Refactor Teleop Control Module** for improved responsiveness and reliability<a id="teleop"></a>
+    - Reconstruct yaml file for parameter management: tie buttons to commands instead of commands to buttons, allowing for easier remapping and customization, reducing code size by 60%
+
+- **Ongoing...**
 
 ### Some project may be on private repo
 
