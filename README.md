@@ -14,48 +14,24 @@
 - **Looking For**: Summer 2026 internship opportunities
 
 
-## Skills
-
 ## Skills  
 
-### 🔧 Backend & Systems
-- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/>
-- Node.js / Express <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20"/>
-- SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/>
-- REST APIs 🌐
-- CMake <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="20"/>
-- Unity <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="20"/>
+### Core
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) **Python**
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) **C++**
+- ![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white) **ROS2**
+- ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white) **STM32**
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) **Node.js / Express**
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) **Git & CI/CD**
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) **SQL & REST APIs**
+- ![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity&logoColor=white) **Unity**
 
-### 🛠 Tools & Practices
-- Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20"/>
-- CI/CD
-- Unit Testing ✅
-- Qt <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="20"/>
-- OOP
-- Data Structures & Algorithms
+### And More...
 
-### 💻 Programming
-- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/>
-- C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/>
-- Lua <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="20"/>
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/>
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/>
-- MATLAB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="20"/>
-- Mathematica <img src="https://img.shields.io/badge/Mathematica-Wolfram-orange?logo=wolfram&logoColor=white" height="20"/>
-- C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/>
-- Elm <img src="https://img.shields.io/badge/Elm-Functional-blue?logo=elm&logoColor=white" height="20"/>
-
-### 🤖 Robotics & Embedded
-- ROS2 <img src="https://img.shields.io/badge/ROS2-Robotics-blue?logo=ros&logoColor=white" height="20"/>
-- STM32 <img src="https://img.shields.io/badge/STM32-MCU-lightblue?logo=stmicroelectronics&logoColor=white" height="20"/>
-- Arduino <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="20"/>
-- Real-Time Systems <img src="https://img.shields.io/badge/Real--Time_Systems-RTOS-yellowgreen" height="20"/>
-- Pybind11 <img src="https://img.shields.io/badge/Pybind11-C%2B%2B%20Bindings-yellow" height="20"/>
-
-**Backend & Systems**: Python, Node.js/Express, SQL, REST APIs, CMake, Unity
-**Tools & Practices**: Git, CI/CD, Unit Testing, Qt, OOP, Data Structures & Algorithms  
-**Programming**: Python, C++, Lua, JavaScript, Java, MATLAB, Mathematica, C#, Elm  
-**Robotics & Embedded**: ROS2, STM32, Arduino, Real-Time Systems, Pybind11  
+- **Backend & Systems**: CMake, Express  
+- **Tools & Practices**: Unit Testing, Qt, OOP, Data Structures & Algorithms  
+- **Programming**: Lua, JavaScript, Java, MATLAB, Mathematica, C#, Elm  
+- **Robotics & Embedded**: Arduino, Real-Time Systems, Pybind11  
 
 ## Project Portfolio
 
