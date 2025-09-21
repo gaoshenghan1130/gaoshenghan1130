@@ -16,22 +16,23 @@
 
 ## Skills  
 
+
 ### Core
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) **Python**
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) **C++**
-- ![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white) **ROS2**
-- ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white) **STM32**
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) **Node.js / Express**
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) **Git & CI/CD**
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) **SQL & REST APIs**
-- ![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity&logoColor=white) **Unity**
+- **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> 
+- **C++** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> 
+- **STM32** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="20"/> 
+- **Node.js / Express** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> 
+- **Git & CI/CD** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> 
+- **SQL & REST APIs** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> 
+- **Unity** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20"/> 
+
 
 ### And More...
 
-- **Backend & Systems**: CMake, Express  
-- **Tools & Practices**: Unit Testing, Qt, OOP, Data Structures & Algorithms  
-- **Programming**: Lua, JavaScript, Java, MATLAB, Mathematica, C#, Elm  
-- **Robotics & Embedded**: Arduino, Real-Time Systems, Pybind11  
+- **Backend & Systems**: CMake, Express, REST APIs, SQL, Git, CI/CD, Multithreading, Network Programming, UDP, ROS2
+- **Tools & Practices**: Unit Testing, Qt, OOP, Unity, Unix/Linux, Neovim, Vim, VSCode, STM32CubeIDE, Microsoft Visual Studio, Docker & Containerization, NumPy / SciPy / Pandas
+- **Programming**: Lua, JavaScript, Java, MATLAB, Mathematica, C#, Elm, HTML/CSS, Functional Programming, Asynchronous Programming, Memory Management (C/C++), Linux/Macos Shell Scripting,
+- **Robotics & Embedded**: Arduino, Real-Time Systems, Pybind11, Protobuf, Control Systems, Bluetooth, Serial Communication, IMU, Kalman Filter, PID Control, Sensor Fusion, Path Planning(D*), 
 
 ## Project Portfolio
 
