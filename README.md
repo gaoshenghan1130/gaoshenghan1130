@@ -28,10 +28,10 @@
 <div style="border:1px solid #ccc; padding:10px; border-radius:5px; background:#f9f9f9;">
   <details open>
     <summary style="font-size:16px; font-weight:bold; ">Robotics and Embedded Systems</summary>
-    <ul>
+    <ul style="list-style:none; padding-left:15px;">
         <li>
         <details open>
-            <summary>RoboCup SSL Team - SJTU SRC (2023-2024)</   summary>
+            <summary>RoboCup SSL Team - SJTU SRC (2023-2024)</summary>
             <ul>
                 <li><a href="#udp_server">UDP Python Server for C++ integration</a></li>
                 <li><a href="#matcher_algo">Best Advancer Matcher Algorithm</a></li>
@@ -57,11 +57,30 @@
             </ul>
         </details>
         </li>
+    </ul>
+    </details>
+  <details open>
+    <summary style="font-size:16px; font-weight:bold; ">Web Development</summary>
+    <ul style="list-style:none; padding-left:15px;">
         <li>
         <details open>
             <summary>IEEE Student Branch - UMich</summary>
             <ul>
                 <li><a href="#pointSystem">Point System for Event Participation</a></li>
+            </ul>
+        </details>
+        </li>
+    </ul>
+  </details>
+  <details open>
+    <summary style="font-size:16px; font-weight:bold; ">Embedded Systems</summary>
+    <ul style="list-style:none; padding-left:15px;">
+        <li>
+        <details open>
+            <summary>STM32 Microcontroller Applications in Unicycles</summary>
+            <ul>
+                <li><a href="#serialComm">Serial Communication Module</a></li>
+                <li><a href="#crossIDE">Cross IDE Config&Build System</a></li>
             </ul>
         </details>
         </li>
@@ -143,6 +162,7 @@ A next-generation software architecture for the RoboCup Small Size League team a
   - Unit Testing for motion algorithms to ensure reliability and correctness
 
 **[MRoboSub Team - UMich](https://www.github.com/MRoboSub/mrobosub)**
+
 **Role:** Software Developer – focusing on embedded systems and ROS2 integration
 
 **Task Stack**: Python, ROS2, Real-Time Systems, Git, Unit Testing
@@ -154,7 +174,7 @@ A next-generation software architecture for the RoboCup Small Size League team a
 
 ### Web Development
 
-**IEEE Student Branch - UMich**
+**[IEEE Student Branch - UMich](https://ieee.eecs.umich.edu/)**
 
 **Role:** Full Stack Developer – development of the branch's [official website](https://ieee.eecs.umich.edu/)
 
@@ -166,10 +186,51 @@ A next-generation software architecture for the RoboCup Small Size League team a
     - RESTful API endpoints for point retrieval and updates
     - Currently working on call UMich API for authentication and user data integration
 
+**Personal Projects**
+
+**[Oddyssey - Time Travel Game](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-24su/p2team07)**
+
+**Role:** Full Stack Developer – development of a time travel game using Elm
+
+**Task Stack**: Elm, Functional Programming, Git, HTML/CSS, JavaScript
+
+The game features a unique time travel mechanic that allows players to accelerate or slow down time to solve puzzles and navigate through levels. Key contributions include:
+
+- Developed a unique time travel mechanic that allows players to accelerate or slow down time to solve puzzles and navigate through levels.
+- Rewrite logics in game engine, separating rendering collision detection and game logic collision detection, optimizing performance by 5000 times.
+- Camera system combined with reduced collision detection area, further improving performance.
+
+
+### Embeded Systems
+
+**STM32 Microcontroller Applications in Unicycles**
+
+**Role:** Research Assistant – exploring STM32 microcontroller applications in unicycles, mentored by [Prof. Orosz](https://me.engin.umich.edu/people/faculty/gabor-orosz/).
+
+**Task Stack**: C, Embedded Systems, Real-Time Systems, Control Systems, STM32, Serial Communication, Bluetooth, Git
+
+- **Serial Communication Module** for real-time data transmission:<a id="serialComm"></a>
+    - Convert TTL to RS485 for long-distance communication, raising voltage level to reduce noise interference, and establishing links between STM32WB55 Core Board and Client Motor
+    - Debugging console with SWV (Serial Wire Viewer) for real-time monitoring and logging
+    - Currently implementing Bluetooth module integration for wireless control and data transmission
+
+- **Cross IDE Config&Build System**:<a id="crossIDE"></a>
+    - Wrapped a standard STM32 project with CMake for cross-IDE compatibility (supporting STM32CubeIDE, and VSCode)
+    - Able to flash and debug directly from VSCode using Cortex-Debug extension or Command Line Instructions
+
+- **~~IMU Integration and Sensor Fusion~~** (Dumped)<a id="imuSensorFusion"></a>
+    - Integrate BNO055 IMU for real-time orientation and motion data
+    - Debugging for error out put for IMU data reading and calibration, finding out that tedious calibration is needed for accurate data
+
+- **Fully Autonomous Unicycle Prototype** with self-balancing and path-following capabilities (Goal for 2025-2026)<a id="autonomousUnicycle"></a>
+    - Mechanical design and assembly of the unicycle frame and components
+    - Control algorithm development for self-balancing and navigation
+    - Simulation and testing in a controlled environment
+
+- **Ongoing...**
 
 
 ### Some project may be on private repo
-
 
 
 - [Odyssey - Time Travel Game](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-24su/p2team07), *Require SJTU account to access*
