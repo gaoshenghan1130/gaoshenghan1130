@@ -16,6 +16,42 @@
 
 ## Skills
 
+## Skills  
+
+### 🔧 Backend & Systems
+- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/>
+- Node.js / Express <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20"/>
+- SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/>
+- REST APIs 🌐
+- CMake <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="20"/>
+- Unity <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="20"/>
+
+### 🛠 Tools & Practices
+- Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20"/>
+- CI/CD
+- Unit Testing ✅
+- Qt <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="20"/>
+- OOP
+- Data Structures & Algorithms
+
+### 💻 Programming
+- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/>
+- C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/>
+- Lua <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="20"/>
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/>
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/>
+- MATLAB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="20"/>
+- Mathematica <img src="https://img.shields.io/badge/Mathematica-Wolfram-orange?logo=wolfram&logoColor=white" height="20"/>
+- C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/>
+- Elm <img src="https://img.shields.io/badge/Elm-Functional-blue?logo=elm&logoColor=white" height="20"/>
+
+### 🤖 Robotics & Embedded
+- ROS2 <img src="https://img.shields.io/badge/ROS2-Robotics-blue?logo=ros&logoColor=white" height="20"/>
+- STM32 <img src="https://img.shields.io/badge/STM32-MCU-lightblue?logo=stmicroelectronics&logoColor=white" height="20"/>
+- Arduino <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="20"/>
+- Real-Time Systems <img src="https://img.shields.io/badge/Real--Time_Systems-RTOS-yellowgreen" height="20"/>
+- Pybind11 <img src="https://img.shields.io/badge/Pybind11-C%2B%2B%20Bindings-yellow" height="20"/>
+
 **Backend & Systems**: Python, Node.js/Express, SQL, REST APIs, CMake, Unity
 **Tools & Practices**: Git, CI/CD, Unit Testing, Qt, OOP, Data Structures & Algorithms  
 **Programming**: Python, C++, Lua, JavaScript, Java, MATLAB, Mathematica, C#, Elm  
