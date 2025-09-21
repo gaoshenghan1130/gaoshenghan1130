@@ -2,10 +2,11 @@
 
 ## About Me
 
-ECE undergraduate @ SJTU & ME undergraduate @ UMich (Dual Degree Program).
-Member of SJTU SRC Team (RoboCup SSL), UMich MRoboSub Team, and UMich IEEE Student Branch.
-Focused on software structure, robotics logic, embedded systems and web development.
-Currently researching on STM32 microcontroller applications in Unicycles and seeking internship opportunities for Summer 2026.
+- **Degree**: Undergraduate ECE @ SJTU & Undergraduate ME @ UMich  
+- **Team Membership**: SJTU SRC Team (RoboCup SSL), UMich MRoboSub Team, UMich IEEE Student Branch  
+- **Focus Areas**: Software architecture, robotics logic, embedded systems, web development  
+- **Current Research**: STM32 microcontroller applications in Unicycles  
+- **Looking For**: Summer 2026 internship opportunities
 
 
 ## Skills
@@ -18,8 +19,6 @@ Currently researching on STM32 microcontroller applications in Unicycles and see
 ---
 
 ## Project Lists
-
-**Role:** Software Developer / Python-C++ Integration Lead
 
 ### Robotics & Embedded Systems
 **[RoboCup SSL Team - SJTU SRC (2023-2024)](https://github.com/sjtu-src/Falcon2023)**
