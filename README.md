@@ -18,7 +18,7 @@
 
 **Backend & Systems**: Python, Node.js/Express, SQL, REST APIs, CMake  
 **Tools & Practices**: Git, CI/CD, Unit Testing, Qt, OOP, Data Structures & Algorithms  
-**Programming**: C++, Lua, JavaScript, Java, MATLAB, Mathematica, C#  
+**Programming**: Python, C++, Lua, JavaScript, Java, MATLAB, Mathematica, C#，Elm  
 **Robotics & Embedded**: ROS2, STM32, Arduino, Real-Time Systems, Pybind11  
 
 
@@ -34,46 +34,33 @@
 ---
 ⭐️ Feel free to check out my projects and contributions!
 
-## Project Context
-
-<details>
-  <summary>Robotics and Embedded Systems</summary>
-
+<div style="border:1px solid #ccc; padding:10px; border-radius:5px; background:#f9f9f9;">
   <details>
-    <summary>RoboCup SSL Team - SJTU SRC (2023-2024)</summary>
-    
-    - [UDP Python Server for C++ integration](#src2023)
-    - Best Advancer Matcher Algorithm  
-    - Chip Location Prediction with one camera  
-    - Role: Software Team Leader – overall architecture, integration, and final code review
-
+    <summary style="font-size:16px; font-weight:bold; cursor:pointer;">Robotics and Embedded Systems</summary>
+    <ul>
+      <li>
+        <details>
+          <summary>RoboCup SSL Team - SJTU SRC (2023-2024)</summary>
+          <ul>
+            <li>UDP Python Server for C++ integration</li>
+            <li>Best Advancer Matcher Algorithm</li>
+            <li>Chip Location Prediction with one camera</li>
+          </ul>
+        </details>
+      </li>
+      <li>
+        <details>
+          <summary>RoboCup SSL Team - SJTU SRC (2025)</summary>
+          <ul>
+            <li>Next-generation software architecture</li>
+            <li>Lua → Python migration for FSM</li>
+            <li>Integration with electronics team</li>
+          </ul>
+        </details>
+      </li>
+    </ul>
   </details>
-
-  <details>
-    <summary>RoboCup SSL Team - SJTU SRC (2025)</summary>
-    
-    - Next-generation software architecture  
-    - Lua → Python migration for FSM  
-    - Integration with electronics team  
-    - Role: Software Team Leader – full software oversight
-
-  </details>
-
-</details>
-
-<details>
-  <summary>Web Development</summary>
-
-  <details>
-    <summary>IEEE Web Page</summary>
-    
-    - Built RESTful APIs with Node.js/Express  
-    - Integrated MySQL database for user management  
-    - Implemented secure student verification system
-
-  </details>
-
-</details>
+</div>
 
 ## Project Lists
 
