@@ -2,8 +2,13 @@
 
 ## About Me
 
-- **Degree**: Undergraduate ECE [@ SJTU](https://www.sjtu.edu.cn/) & ME [@ UMich](https://www.umich.edu/)
-- **Team Membership**: SJTU SRC Team (RoboCup SSL), UMich MRoboSub Team, UMich IEEE Student Branch  
+- **Degree Persuing**: 
+    - Undergraduate ECE [@ SJTU](https://www.sjtu.edu.cn/) 
+    - Undergraduate ME [@ UMich](https://www.umich.edu/)
+- **Team Membership**: 
+    - [SJTU SRC Team (RoboCup SSL)](https://github.com/sjtu-src)
+    - [UMich MRoboSub Team](https://github.com/MRoboSub/mrobosub)
+    - [UMich IEEE Student Branch](https://ieee.eecs.umich.edu/)  
 - **Focus Areas**: Software architecture, robotics logic, embedded systems, web development  
 - **Current Research**: STM32 microcontroller applications in Unicycles  
 - **Looking For**: Summer 2026 internship opportunities
