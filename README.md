@@ -39,8 +39,7 @@
 <details>
   <summary>Robotics and Embedded Systems</summary>
 
-- **RoboCup SSL Team - SJTU SRC (2023-2024)**  
-  Key contributions: Python-C++ integration, UDP server, RRCC protocol, Best Advancer Matcher, Chip Location Prediction, etc.
+- **[RoboCup SSL Team - SJTU SRC (2023-2024)](#src2023)**
 
 </details>
 
@@ -56,7 +55,7 @@
 ## Project Lists
 
 ### Robotics & Embedded Systems
-**[RoboCup SSL Team - SJTU SRC (2023-2024)](https://github.com/sjtu-src/Falcon2023)**
+**[RoboCup SSL Team - SJTU SRC (2023-2024)](https://github.com/sjtu-src/Falcon2023)<a id ="src2023"></a>**
 
 **Role:** Software Team Leader – overseeing full software architecture and integration
 - Determine software architecture and module division
