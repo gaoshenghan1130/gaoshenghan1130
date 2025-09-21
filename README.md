@@ -16,9 +16,9 @@
 
 ## Skills
 
-**Backend & Systems**: Python, Node.js/Express, SQL, REST APIs, CMake  
+**Backend & Systems**: Python, Node.js/Express, SQL, REST APIs, CMake, Unity
 **Tools & Practices**: Git, CI/CD, Unit Testing, Qt, OOP, Data Structures & Algorithms  
-**Programming**: Python, C++, Lua, JavaScript, Java, MATLAB, Mathematica, C#，Elm  
+**Programming**: Python, C++, Lua, JavaScript, Java, MATLAB, Mathematica, C#, Elm  
 **Robotics & Embedded**: ROS2, STM32, Arduino, Real-Time Systems, Pybind11  
 
 ## Project Portfolio
@@ -60,13 +60,23 @@
     </ul>
     </details>
   <details open>
-    <summary style="font-size:16px; font-weight:bold; ">Web Development</summary>
+    <summary style="font-size:16px; font-weight:bold; ">Web(Backend) Development and Software Design</summary>
     <ul style="list-style:none; padding-left:15px;">
         <li>
         <details open>
             <summary>IEEE Student Branch - UMich</summary>
             <ul>
                 <li><a href="#pointSystem">Point System for Event Participation</a></li>
+            </ul>
+        </details>
+        </li>
+        <li>
+        <details open>
+            <summary>Personal/Small Team Projects</summary>
+            <ul>
+                <li><a href="#javaMySQL">Java Based MySQL Client GUI</a></li>
+                <li><a href="#odyssey">Time Wield - Time Travel Game</a></li>
+                <li><a href="#afterDusk">After Dusk - 3D Unity Puzzle Game</a></li>
             </ul>
         </details>
         </li>
@@ -172,7 +182,7 @@ A next-generation software architecture for the RoboCup Small Size League team a
 
 - **Ongoing...**
 
-### Web Development
+### Web(Backend) Development and Software Design
 
 **[IEEE Student Branch - UMich](https://ieee.eecs.umich.edu/)**
 
@@ -186,24 +196,29 @@ A next-generation software architecture for the RoboCup Small Size League team a
     - RESTful API endpoints for point retrieval and updates
     - Currently working on call UMich API for authentication and user data integration
 
-**Personal Projects**
+**Personal/Small Team Projects**
 
-**[Oddyssey - Time Travel Game](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-24su/p2team07)**
-
-**Role:** Full Stack Developer – development of a time travel game using Elm
+**Role:** Full Stack Developer, Game Developer, Project Manager
 
 **Task Stack**: Elm, Functional Programming, Git, HTML/CSS, JavaScript
 
-The game features a unique time travel mechanic that allows players to accelerate or slow down time to solve puzzles and navigate through levels. Key contributions include:
+- **[Java Based MySQL Client GUI](https://github.com/gaoshenghan1130/student_info)**<a id="javaMySQL"></a>
+    - Developed a Java Swing application for managing MySQL databases
+    - Implemented for collaborators unable to use command line tools (Intended for backend setup and management for IEEE Student Branch website)
+    - Features include database connection management, query execution, and result visualization
 
-- Developed a unique time travel mechanic that allows players to accelerate or slow down time to solve puzzles and navigate through levels.
-- Rewrite logics in game engine, separating rendering collision detection and game logic collision detection, optimizing performance by 5000 times.
-- Camera system combined with reduced collision detection area, further improving performance.
+- **[Time Wield - Time Travel Game](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-24su/p2team07)**: A course team project for ENGR1000J in SJTU. The game features a unique time travel mechanic that allows players to accelerate or slow down time to solve puzzles and navigate through levels. This link is avaiable only with SJTU account, but the product can be found on [offical course website](https://focs.ji.sjtu.edu.cn/silverfocs/project/2024/p2).  Key contributions include:<a id="odyssey"></a>
+    - Refactor OOP structure in Messager Engine, enabling easy addition of new message types and handlers, and connection between specific objects.
+    - Rewrite logics in game engine, separating rendering collision detection and game logic collision detection, optimizing performance by 5000 times. Camera system combined with reduced collision detection area, further improving performance.
+
+- **After Dusk - 3D Unity Puzzle Game**: A team project for a game design competition hosted by SJTU GameJam Club. Featuring a Mother and Daughter duo solving puzzles, with their actions mirroring each other. The club is no longer maintaining their website, so the link has lost. Key contributions include:<a id="afterDusk"></a>
+    - Design and implement the dual moving mechanism
+    - Develop puzzle mechanics and level design
 
 
 ### Embeded Systems
 
-**STM32 Microcontroller Applications in Unicycles**
+**[STM32 Microcontroller Applications in Unicycles](https://github.com/gaoshenghan1130/Unicycle)**
 
 **Role:** Research Assistant – exploring STM32 microcontroller applications in unicycles, mentored by [Prof. Orosz](https://me.engin.umich.edu/people/faculty/gabor-orosz/).
 
@@ -228,11 +243,4 @@ The game features a unique time travel mechanic that allows players to accelerat
     - Simulation and testing in a controlled environment
 
 - **Ongoing...**
-
-
-### Some project may be on private repo
-
-
-- [Odyssey - Time Travel Game](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-24su/p2team07), *Require SJTU account to access*
-A time travel game developed using Elm, a functional programming language for front-end web development. The game features a unique time travel mechanic that allows players to accelerate or slow down time to solve puzzles and navigate through levels.
 
