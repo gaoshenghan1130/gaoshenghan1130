@@ -21,18 +21,6 @@
 **Programming**: Python, C++, Lua, JavaScript, Java, MATLAB, Mathematica, C#，Elm  
 **Robotics & Embedded**: ROS2, STM32, Arduino, Real-Time Systems, Pybind11  
 
-
-## Contact
-- Email: shenghan@umich.edu
-- Mobile: +1 (734) 358-6704
-- [LinkedIn](https://www.linkedin.com/in/shenghan-gao-30b029383)
-- WeChat Id: Gshgsh1130
-- QQ: 2893409370
-- Instagram: [@gaoshenghan1130](https://www.instagram.com/gaoshenghan1130/)
-- Personal Website (coming soon 🚧)
-
----
-
 ## Project Context
 
 ⭐️ Feel free to check out my projects and contributions!
@@ -64,6 +52,17 @@
     </ul>
   </details>
 </div>
+
+## Contact
+- Email: shenghan@umich.edu
+- Mobile: +1 (734) 358-6704
+- [LinkedIn](https://www.linkedin.com/in/shenghan-gao-30b029383)
+- WeChat Id: Gshgsh1130
+- QQ: 2893409370
+- Instagram: [@gaoshenghan1130](https://www.instagram.com/gaoshenghan1130/)
+- Personal Website (coming soon 🚧)
+
+---
 
 ## Project Lists
 
