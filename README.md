@@ -56,6 +56,16 @@
                 <li><a href="#teleop">Refactor Teleop Control Module</a></li>
             </ul>
         </details>
+        </li>
+        <li>
+        <details open>
+            <summary>IEEE Student Branch - UMich</summary>
+            <ul>
+                <li><a href="#pointSystem">Point System for Event Participation</a></li>
+            </ul>
+        </details>
+        </li>
+    </ul>
   </details>
 </div>
 
@@ -141,6 +151,22 @@ A next-generation software architecture for the RoboCup Small Size League team a
     - Reconstruct yaml file for parameter management: tie buttons to commands instead of commands to buttons, allowing for easier remapping and customization, reducing code size by 60%
 
 - **Ongoing...**
+
+### Web Development
+
+**IEEE Student Branch - UMich**
+
+**Role:** Full Stack Developer – development of the branch's [official website](https://ieee.eecs.umich.edu/)
+
+**Task Stack**: Node.js/Express, SQL, REST APIs, JavaScript, HTML/CSS, Git, CI/CD
+
+- **Point System for Event Participation**:<a id="pointSystem"></a>
+    - Backend API development using Node.js and Express
+    - SQL database design for storing user points and event data
+    - RESTful API endpoints for point retrieval and updates
+    - Currently working on call UMich API for authentication and user data integration
+
+
 
 ### Some project may be on private repo
 
