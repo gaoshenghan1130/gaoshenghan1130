@@ -173,7 +173,7 @@ A next-generation software architecture for the RoboCup Small Size League team a
   - Optimize cmake sturcture, create function automatically to recursively add all source files in a directory to target, avoiding manual adding. Shortening code size each module from 200-400 lines to less than 100 lines.
   - Refactor config-time generation of protobuf, lua and python bindings to compile time generation, monitoring changes in proto/lua/py files and auto-regenerate corresponding cpp/h files.
 
-- **Python Based FSM (Finite State Machine)** for better modularity and maintainability: <a id="pyfsm"></a>
+- **[Python Based FSM (Finite State Machine)](./PyFSM/pyfsm_eng.md)** for better modularity and maintainability(original Chinese version [here](./PyFSM/pyfsm.md)): <a id="pyfsm"></a>
     - Each skill is represented as a state in the FSM, allowing for clear transitions and encapsulation of behavior
     - Simplifies the addition of new skills and modification of existing ones without affecting the overall system
 
