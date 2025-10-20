@@ -32,7 +32,16 @@
 - **Backend & Systems**: CMake, Express, REST APIs, SQL, Git, CI/CD, Multithreading, Network Programming, UDP, ROS2
 - **Tools & Practices**: Unit Testing, Qt, OOP, Unity, Unix/Linux, Neovim, Vim, VSCode, STM32CubeIDE, Microsoft Visual Studio, Docker & Containerization, NumPy / SciPy / Pandas
 - **Programming**: Lua, JavaScript, Java, MATLAB, Mathematica, C#, Elm, HTML/CSS, Functional Programming, Asynchronous Programming, Memory Management (C/C++), Linux/Macos Shell Scripting,
-- **Robotics & Embedded**: Arduino, Real-Time Systems, Pybind11, Protobuf, Control Systems, Bluetooth, Serial Communication, IMU, Kalman Filter, PID Control, Sensor Fusion, Path Planning(D*), 
+- **Robotics & Embedded**: Arduino, Real-Time Systems, Pybind11, Protobuf, Control Systems, Bluetooth, Serial Communication, IMU, Kalman Filter, PID Control, Sensor Fusion, Path Planning(D*)
+
+## Contact
+- Email: shenghan@umich.edu
+- Mobile: +1 (734) 358-6704
+- [LinkedIn](https://www.linkedin.com/in/shenghan-gao-30b029383)
+- WeChat Id: Gshgsh1130
+- QQ: 2893409370
+- Instagram: [@gaoshenghan1130](https://www.instagram.com/gaoshenghan1130/)
+- Personal Website: https://gsh-webpage.vercel.app/ (Still Under Construction!!!)
 
 ## Project Portfolio
 
@@ -110,15 +119,6 @@
     </ul>
   </details>
 </div>
-
-## Contact
-- Email: shenghan@umich.edu
-- Mobile: +1 (734) 358-6704
-- [LinkedIn](https://www.linkedin.com/in/shenghan-gao-30b029383)
-- WeChat Id: Gshgsh1130
-- QQ: 2893409370
-- Instagram: [@gaoshenghan1130](https://www.instagram.com/gaoshenghan1130/)
-- Personal Website (coming soon 🚧)
 
 ---
 
